@@ -1,0 +1,31 @@
+label{
+    display: block;
+    float: inline-start;
+    width: 80px;
+}
+#nombre{background-color:thistle;}
+#contra{background-color:thistle;}
+body{
+    background-color: azure;
+}
+body{
+    background-color: azure;
+}
+
+#formulario{
+    border-width: thin;
+    border-style: solid;
+    border-color: #007e7e;
+    width: 500px;  
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+/* al colocar margin-left/right en automatico la imagen queda alineada al centro de manera automatica  */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: floralwhite;
+}
+
+#error{text-align: center;}
